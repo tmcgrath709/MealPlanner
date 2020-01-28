@@ -1,0 +1,14 @@
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\MealPlanner.csprojAssemblyReference.cache
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\MealPlanner.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\MealPlanner.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\MealPlanner.exe
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\MealPlanner.deps.json
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\MealPlanner.runtimeconfig.json
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\MealPlanner.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\MealPlanner.dll
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\MealPlanner.pdb
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\MealPlanner.dll
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\MealPlanner.pdb
+C:\Users\Tommy\source\repos\MealPlanner\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Tommy\source\repos\MealPlanner\obj\Debug\netcoreapp3.1\MealPlanner.csproj.ResolveComReference.cache
