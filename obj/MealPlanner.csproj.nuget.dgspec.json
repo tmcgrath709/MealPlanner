@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tommy\\source\\repos\\MealPlanner\\MealPlanner.csproj": {}
+    "C:\\Users\\Tommy\\source\\repos\\mealplanner\\MealPlanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tommy\\source\\repos\\MealPlanner\\MealPlanner.csproj": {
+    "C:\\Users\\Tommy\\source\\repos\\mealplanner\\MealPlanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tommy\\source\\repos\\MealPlanner\\MealPlanner.csproj",
+        "projectUniqueName": "C:\\Users\\Tommy\\source\\repos\\mealplanner\\MealPlanner.csproj",
         "projectName": "MealPlanner",
-        "projectPath": "C:\\Users\\Tommy\\source\\repos\\MealPlanner\\MealPlanner.csproj",
+        "projectPath": "C:\\Users\\Tommy\\source\\repos\\mealplanner\\MealPlanner.csproj",
         "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tommy\\source\\repos\\MealPlanner\\obj\\",
+        "outputPath": "C:\\Users\\Tommy\\source\\repos\\mealplanner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",

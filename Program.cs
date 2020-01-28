@@ -7,7 +7,7 @@ namespace MealPlanner
         static void Main(string[] args)
 
         {
-            //Use a while loop to return to the main menu when complete
+            //Use a while loop to return to the main menu when complete......
             while (true)
             {
                 Console.WriteLine("What Would you like to do?");
